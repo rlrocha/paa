@@ -1,5 +1,5 @@
 # Projeto e Análise de Algoritmos
-<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha)
+[<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha)
 
 Repositório para a disciplina Projeto e Análise de Algoritmos do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.2.
 
