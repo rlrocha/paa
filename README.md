@@ -5,7 +5,7 @@ Repositório para a disciplina Projeto e Análise de Algoritmos do Programa de P
 
 ## Exemplos
 
--[Exemplo 1](exemplo1.ipynb): Análise do Algortimo Insertion Sort.
+- [Exemplo 1](exemplo1.ipynb): Análise do Algortimo Insertion Sort.
 
 ## Exercícios práticos
 
