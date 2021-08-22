@@ -24,3 +24,5 @@ Repositório para a disciplina Projeto e Análise de Algoritmos do Programa de P
 - [Exercício prático 3](ep3.ipynb): Avalia a complexidade dos algoritmos Quick-Sort e Radix-Sort em termos de tempo de execução e número de instruções executadas.
 
 - [Exercício prático 4](ep4.ipynb): Avalia a complexidade dos algoritmos Árvore AVL e Árvore Rubro-Negra em termos de tempo de execução das operações inserção e busca.
+
+- [Exercício prático 5](ep5.ipynb): Avalia a complexidade dos algoritmos Árvore TRIE e Árvore Patricia em termos de tempo de execução das operações inserção e busca.
