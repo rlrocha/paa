@@ -26,3 +26,5 @@ Repositório para a disciplina Projeto e Análise de Algoritmos do Programa de P
 - [Exercício prático 4](ep4.ipynb): Avalia a complexidade dos algoritmos Árvore AVL e Árvore Rubro-Negra em termos de tempo de execução das operações inserção e busca.
 
 - [Exercício prático 5](ep5.ipynb): Avalia a complexidade dos algoritmos Árvore TRIE e Árvore Patricia em termos de tempo de execução das operações inserção e busca.
+
+- [Exercício prático 6](ep6.ipynb): Avalia a complexidade dos algoritmos Hash Linear e Hash Duplo em termos de tempo de execução das operações inserção e busca.
