@@ -28,3 +28,5 @@ Repositório para a disciplina Projeto e Análise de Algoritmos do Programa de P
 - [Exercício prático 5](ep5.ipynb): Avalia a complexidade dos algoritmos Árvore TRIE e Árvore Patricia em termos de tempo de execução das operações inserção e busca.
 
 - [Exercício prático 6](ep6.ipynb): Avalia a complexidade dos algoritmos Hash Linear e Hash Duplo em termos de tempo de execução das operações inserção e busca.
+
+- [Exercício prático 7](ep7.ipynb): Avalia a complexidade do algoritmo Dijkstra, em termos de tempo de execução, para a implementação de grafo através de lista de adjacências e matriz de adjacências.
